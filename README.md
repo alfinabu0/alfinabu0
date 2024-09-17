@@ -12,7 +12,7 @@ I'm Alfin Abu, an Electronics and Communication Engineering student from Thiruva
 - **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
 - **Mobile Development**: ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat) 
 - **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-- **Other**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+
 
 ### Tools & Platforms:
 - **Web Development**: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
@@ -24,7 +24,7 @@ I'm Alfin Abu, an Electronics and Communication Engineering student from Thiruva
 ## 🌱 Current Focus
 - 🎯 **Backend Development** for my startup.
 - 💻 **Freelance Projects** in web and mobile app development.
-- 🚀 Learning more about **cloud technologies** and scaling applications.
+- 🚀 Learning more about **software development and computers as a whole** .
 
 ---
 
@@ -36,13 +36,12 @@ I'm Alfin Abu, an Electronics and Communication Engineering student from Thiruva
 ---
 
 ## 📫 Let's Connect!
-- 📧 Feel free to reach out: [your-email@example.com](mailto:your-email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌐 [My Portfolio](https://your-portfolio-link.com)
+- 📧 Feel free to reach out: [alfinabuofficial@gmail.com](mailto:alfinabuofficial@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alfin-abu/)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=alfinabu0&color=brightgreen)
 
 Thanks for visiting my profile! 😄
 
