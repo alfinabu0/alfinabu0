@@ -2,7 +2,7 @@
 
 **`Electronics & Communication Engineering Student | Freelance Software Developer | Tech Enthusiast`**
 
-I'm Alfin Abu, an Electronics and Communication Engineering student from Thiruvananthapuram, Kerala, with a passion for technology and problem-solving. I love to tinker with code, work on web and mobile development, and build cool things. Currently, I'm focusing on backend development for my startup 🚀.
+I'm Alfin Abu, an Electronics and Communication Engineering student from Thiruvananthapuram, Kerala, with a passion for technology and problem-solving. I love to tinker with code, work on web and mobile development, and build cool things , particularly embedded systems. Currently seeking a full time employment options which can challenge my technical and personal abilities.
 
 ---
 
@@ -25,6 +25,7 @@ I'm Alfin Abu, an Electronics and Communication Engineering student from Thiruva
 - 🎯 **Backend Development** for my startup.
 - 💻 **Freelance Projects** in web and mobile app development.
 - 🚀 Learning more about **software development and computers as a whole** .
+- 🔌 Exploring embedded systems, real-time computing, and hardware-software low level interactions.
 
 ---
 
